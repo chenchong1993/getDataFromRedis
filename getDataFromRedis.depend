@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1551329722 source:/home/ccsg/CWorkPlace/getDataFromRedis/main.cpp
+	<iostream>
+	<stdio.h>
+	<sys/select.h>
+	<hiredis/hiredis.h>
+	<cstdlib>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<typeinfo>
+	<fstream>
+	<iomanip>
+
